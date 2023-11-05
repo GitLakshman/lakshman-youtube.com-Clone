@@ -1,0 +1,19 @@
+.time-note-show{
+    font-family: Roboto, Arial;
+    font-size: 12px;
+    font-weight: 500;
+    position: absolute;
+    bottom: 11px;
+    right: 4px;
+    background-color: black;
+    color: white;
+    padding-right: 4px;
+    padding-left: 4px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border-radius: 2px;;
+}
+
+.youtube_verified{
+    width: 11px;
+}
